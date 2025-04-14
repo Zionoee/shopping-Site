@@ -2,7 +2,7 @@ import { FaQuestion, FaShoppingCart, FaUser } from "react-icons/fa";
 import Logo from "../assets/newLogo.jpg";
 export const Header = () => {
   return (
-    <header className="max-w-screen bg-gray-100 h-[14dvh] font-serif text-[10px] text-gray-500">
+    <header className="max-w-screen bg-gray-100 h-[14dvh] font-serif text-[16px] text-gray-500">
       <div className="flex justify-between pt-2 mx-3">
         {/* logo */}
         <div className="flex items-baseline border">
